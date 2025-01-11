@@ -18,10 +18,6 @@ setTimeout(() => {
             }, 1000); 
         }, 1000);        
     }, 0);
-}, 2000);x
-
-
-
-
+}, 2000);
 
 console.log("after settimeout")
